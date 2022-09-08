@@ -1,0 +1,19 @@
+//
+//  RCSPageFloaterPrefixHeader.pch
+//  Pods
+//
+//  Created by 彭蕾 on 2022/6/20.
+//
+
+#ifndef RCSPageFloaterPrefixHeader_pch
+#define RCSPageFloaterPrefixHeader_pch
+
+// third party
+#import <Masonry/Masonry.h>
+
+// RCS Kit
+#import <RCSceneBaseKit/RCSBaseKit.h>
+
+#import "RCSPageFloaterConstant.h"
+
+#endif /* RCSPageFloaterPrefixHeader_pch */
